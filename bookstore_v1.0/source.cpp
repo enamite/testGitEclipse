@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	std::cout << "any string" << std::endl;
+	std::cout << "another string" << std::endl;
 	return 0;
 }
